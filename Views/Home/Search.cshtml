@@ -1,0 +1,12 @@
+﻿@{
+    Layout = "_ownLayout";
+}
+@model IEnumerable<Product>;
+@if (Model != null && Model.Any())
+{
+    <partial name="_mypartialview" model="Model" />
+}
+else if (Model != null)
+{
+    <img src="~/OtherImages/3bbf1eb0a0eb7cdce4a42da7f54c3db3.jpg" style="display: block; margin: auto; width: 50%;" />
+}

@@ -1,0 +1,90 @@
+﻿@{
+    Layout = null;
+}
+@model Product
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Product Form</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            background-color: #f8f9fa; /* Light gray background */
+        }
+
+        .card-container {
+            max-width: 600px;
+            margin: auto;
+            margin-top: 50px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Box shadow */
+        }
+
+        .card-title {
+            text-align: center; /* Center align the text */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="text-center my-3">
+        <img src="~/OtherImages/rj-removebg-preview.png" alt="logo" width="200px">
+    </div>
+    <div class="card-container">
+        <div class="card">
+            <div class="card-body">
+                <h2 class="card-title">Edit Product</h2>
+                <form asp-action="Edit" method="post">
+                    <div class="form-group">
+                        <input type="hidden" class="form-control" name="id" value="@Model.Id" id="productid" >
+                    </div>
+                    <div class="form-group">
+                        <label for="productName">Product Name</label>
+                        <input type="text" class="form-control" name="name" id="productName" value="@Model.Name" placeholder="Enter product name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="packageDetail">Package Detail</label>
+                        <input type="text" class="form-control" name="pakagedetail" id="packageDetail" value="@Model.PakageDetail" placeholder="Enter package detail" required>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-4">
+                            <label for="price">Price</label>
+                            <input type="text" class="form-control" name="price" id="price" value="@Model.Price" placeholder="Enter price" required>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label for="quantity">Quantity</label>
+                            <div class="input-group">
+                                <input type="number" class="form-control" name="quantity" id="quantity" value="@Model.Quantity" min="1" max="100" required>
+                            </div>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label for="category">Category</label>
+                            <select id="category" name="category" class="form-control" required>
+                                <option selected disabled>Choose category...</option>
+                                <option value="Airpods">Airpods</option>
+                                <option value="SmartWatches">Smart Watches</option>
+                                <option value="WatchStraps">Watch Straps</option>
+                                <option value="Handsfree">Handsfree</option>
+                            </select>
+                            <span id="categoryError" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="features">Features</label>
+                        <textarea class="form-control" id="features" name="features" rows="3" value="@Model.Feature" placeholder="Enter product features" required>@Model.Feature</textarea>
+                    </div>
+                    <input type="hidden" id="imageUpload" name="files" value="@Model.Images" multiple >
+                    <button type="submit" class="btn w-100 btn-primary">Save Product</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

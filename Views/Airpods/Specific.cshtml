@@ -1,0 +1,20 @@
+﻿@{
+    Layout = "_ownLayout";
+}
+@model Product
+
+<div id="error-message" style="display:none; color: red;">
+
+@if (TempData["Error"] != null)
+{
+    <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function () {
+            var errorMessage = '@TempData["Error"]';
+            alert(errorMessage); // This can be replaced with any other method to show the error
+        });
+    </script>
+}
+</div>
+<title>@Model.Name</title>
+<partial name="_SpecificProduct" model="Model" />
+

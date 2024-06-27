@@ -1,0 +1,36 @@
+﻿@model List<Product>
+<div class="container">
+    <div class="row gy-3 mt-5 justify-content-center">
+        @foreach (var p in Model)
+        {
+            string[] images = p.Images.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
+            string firstImagePath = images.FirstOrDefault();
+            
+            <div class="col-6 col-md-3 col-sm-6">
+                
+                <a asp-action="Specific" asp-route-id="@p.Id">
+                    <div class="card border-0">
+                        
+                        <!-- Use the first image path -->
+                        <img class="card-img-top" src="@Url.Content(firstImagePath)" alt="Uploaded Image" />
+                        <div class="card-body">
+                            <p class="card-text fs-4 text-body-tertiary">
+                                RJTECH
+                                <h5>@p.Name</h5>
+
+                                <del class="text-danger">Rs.@p.Price .00</del>
+                                @{
+                                    decimal discount = 0.2m; // 20% discount
+                                    decimal discountPrice = p.Price * (1 - discount); // Calculate the discounted price
+                                    discountPrice = Math.Round(discountPrice, 2); // Round the discounted price to two decimal places
+                                    string formattedDiscountPrice = discountPrice.ToString("0.00"); // Format the discounted price with trailing zeros
+                                }
+                                <span> Rs.@formattedDiscountPrice </span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        }
+    </div>
+</div>

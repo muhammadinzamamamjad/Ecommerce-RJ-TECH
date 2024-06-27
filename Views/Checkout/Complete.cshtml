@@ -1,0 +1,153 @@
+﻿@model CustomerOrder
+<style>body {
+background-color:grey;
+font-family: 'Montserrat', sans-serif
+}
+.card {
+border: none
+}
+.logo {
+background-color: #eeeeeea8
+}
+.totals tr td {
+font-size: 13px
+}
+.footer {
+background-color: #eeeeeea8
+}
+.footer span {
+font-size: 12px
+}
+.product-qty span {
+font-size: 12px;
+color: #dedbdb
+}
+</style>
+@{
+    Decimal totalsum = 0 ;
+    OrderDetail o = Model.OrderDetail;
+    List<CartItems> products = Model.Products;
+    string name = string.Empty;
+    string domain = "@gmail.com";
+    if (User.Identity.IsAuthenticated)
+    {
+        name = User.Identity.Name;
+        int index = name.IndexOf(domain);
+        name = name.Substring(0, index);
+    }
+    else
+    {
+        name = "User";
+    }
+}
+<div class="container mt-5 mb-5">
+    <div class="row d-flex justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="text-center logo p-2 px-5">
+                    <img src="~/OtherImages/rj-removebg-preview.png" alt="logo" width="200px">
+                </div>
+                <div class="invoice p-5">
+                    <h5>Your order Confirmed!</h5> <span class="font-weight-bold d-block mt-4">Hello, @name</span> <span>You order has been confirmed and will be shipped in next two days!</span>
+                    <div class="payment border-top mt-3 mb-3 border-bottom table-responsive">
+                        <table class="table table-borderless">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <div class="py-2"> <span class="d-block text-muted">Order Date</span> <span>@o.PlacedAt</span> </div>
+                                    </td>
+                                    <td>
+                                        <div class="py-2"> <span class="d-block text-muted">Order No</span> <span>@o.Id</span> </div>
+                                    </td>
+                                    <td>
+                                        <div class="py-2"> <span class="d-block text-muted">Payment</span> <span>COD</span> </div>
+                                    </td>
+                                    <td>
+                                        <div class="py-2"> <span class="d-block text-muted">Shiping Address</span> <span>@o.Address, @o.City, @o.Country</span> </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="product border-bottom table-responsive">
+                        <table class="table table-borderless">
+                            <tbody>
+                                @foreach(var p in products)
+                                {
+                                <tr>
+                                        <td width="20%"> <img src="@Url.Content(p.Image)" width="90"> </td>
+                                    <td width="60%">
+                                        <span class="font-weight-bold">@p.Name</span>
+                                        <div class="product-qty"> <span class="d-block">Quantity:@p.Quantity</span> <span>Category:@p.Category</span> </div>
+                                    </td>
+                                    <td width="20%">
+                                        <div class="text-right"> <span class="font-weight-bold">Rs.@p.Discprice</span> </div>
+                                    </td>
+                                </tr>
+                                                totalsum += p.Discprice;
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="row d-flex justify-content-end">
+                        <div class="col-md-5">
+                            <table class="table table-borderless">
+                                <tbody class="totals">
+                                    <tr>
+                                        <td>
+                                            <div class="text-left"> <span class="text-muted">Subtotal</span> </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-right"> <span>@totalsum</span> </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="text-left"> <span class="text-muted">Shipping Fee</span> </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-right"> <span>Rs.250.0</span> </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="text-left"> <span class="text-muted">Tax Fee</span> </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-right"> <span>Rs.0</span> </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="text-left"> <span class="text-muted">Discount</span> </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-right"> <span class="text-success">Rs.0</span> </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="border-top border-bottom">
+                                        <td>
+                                            <div class="text-left"> <span class="font-weight-bold">Subtotal</span> </div>
+                                        </td>
+                                        @{
+                                            totalsum += 250;
+                                        }
+                                        <td>
+                                            <div class="text-right"> <span class="font-weight-bold">Rs.@totalsum</span> </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <p>We will be sending shipping confirmation email when the item shipped successfully!</p>
+                    <p class="font-weight-bold mb-0">Thanks for shopping with us!</p> <span>RJTECH Team</span>
+                </div>
+                <div class="d-flex justify-content-between footer p-3"> <span>Need Help? visit our <a href="#"> help center</a></span> <span class="text-muted">Copyright &copy; 2024 &mdash; RJTECH</span> </div>
+            </div>
+        </div>
+    </div>
+</div>
+<a href="/Home/index" class="btn btn-link text-muted w-100">
+    <i class="btn btn-info w-100">Continue Shopping</i>
+</a>

@@ -1,0 +1,45 @@
+﻿@page
+@model LogoutModel
+@{
+    ViewData["Title"] = "Log out";
+}
+
+<header>
+    @{
+        if (User.Identity?.IsAuthenticated ?? false)
+        {
+            <section class="h-100">
+                <div class="container h-100">
+                    <div class="row justify-content-sm-center h-100">
+                        <div class="col-xxl-4 col-xl-5 col-lg-5 col-md-7 col-sm-9">
+                            <div class="text-center my-5">
+                                <img src="~/OtherImages/rj-removebg-preview.png" alt="logo" width="200px">
+                            </div>
+                            <div class="card shadow-lg">
+                                <div class="card-body p-5">
+                                    <h1 class="fs-4 card-title text-center fw-bold mb-4">Logout</h1>
+                                    <h5 class="card-title">Thank you for shopping!</h5>
+                                    <p class="card-text">We hope you had a great shopping experience with us. If you're ready to leave, please click the "Logout" button below.</p>
+                                    <div class="text-center">
+                                        <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post">
+                                            <button type="submit" class="btn btn-primary">Click here to Logout</button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-center mt-5 text-muted">
+                                Copyright &copy; 2024 &mdash; RJTECH
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        }
+
+        else
+        {
+            <p>You have successfully logged out of the application.</p>
+        }
+    }
+</header>

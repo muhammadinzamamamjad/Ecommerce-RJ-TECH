@@ -1,0 +1,649 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RJTECH(Authentication).bundle.scp.css",
+      "PackagePath": "staticwebassets\\RJTECH(Authentication).bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\OtherImages\\1_1512x.png",
+      "PackagePath": "staticwebassets\\OtherImages\\1_1512x.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\OtherImages\\2_1080x.png",
+      "PackagePath": "staticwebassets\\OtherImages\\2_1080x.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\OtherImages\\3bbf1eb0a0eb7cdce4a42da7f54c3db3.jpg",
+      "PackagePath": "staticwebassets\\OtherImages\\3bbf1eb0a0eb7cdce4a42da7f54c3db3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\OtherImages\\desk_sized_1512x_3cdea34d-4f8c-4e58-af4d-07a6dc894a28_1512x.jpg",
+      "PackagePath": "staticwebassets\\OtherImages\\desk_sized_1512x_3cdea34d-4f8c-4e58-af4d-07a6dc894a28_1512x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\OtherImages\\empty_cart.png",
+      "PackagePath": "staticwebassets\\OtherImages\\empty_cart.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\OtherImages\\freedel.png",
+      "PackagePath": "staticwebassets\\OtherImages\\freedel.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\OtherImages\\payment.png",
+      "PackagePath": "staticwebassets\\OtherImages\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\OtherImages\\return.jpg",
+      "PackagePath": "staticwebassets\\OtherImages\\return.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\OtherImages\\rj-removebg-preview.png",
+      "PackagePath": "staticwebassets\\OtherImages\\rj-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\OtherImages\\secure.png",
+      "PackagePath": "staticwebassets\\OtherImages\\secure.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\100ac113-0357-4b60-8502-29ad85d4018e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\100ac113-0357-4b60-8502-29ad85d4018e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\1403e220-eaf5-445d-9d13-0a8e9d1d9104.png",
+      "PackagePath": "staticwebassets\\ProductImages\\1403e220-eaf5-445d-9d13-0a8e9d1d9104.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\18a7cfe0-0515-49ef-bce9-3e8a0acb7d47.png",
+      "PackagePath": "staticwebassets\\ProductImages\\18a7cfe0-0515-49ef-bce9-3e8a0acb7d47.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\21736085-957f-454b-a2eb-7236d5d6e6f0.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\21736085-957f-454b-a2eb-7236d5d6e6f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\283b7c5e-7242-4f59-8acf-e8585d285c0b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\283b7c5e-7242-4f59-8acf-e8585d285c0b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\29bc9f4a-c983-4f16-89a9-46a3bb379cca.png",
+      "PackagePath": "staticwebassets\\ProductImages\\29bc9f4a-c983-4f16-89a9-46a3bb379cca.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\2ad024b7-af5b-4e9f-b556-6b24109f3d75.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\2ad024b7-af5b-4e9f-b556-6b24109f3d75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\2b05de50-fbe3-4d81-99d4-cf0acdb64492.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\2b05de50-fbe3-4d81-99d4-cf0acdb64492.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\2ef9e202-1a9f-4782-9c47-2a76d2a5dbda.png",
+      "PackagePath": "staticwebassets\\ProductImages\\2ef9e202-1a9f-4782-9c47-2a76d2a5dbda.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\333bed33-741a-4df5-856c-69515565093e.png",
+      "PackagePath": "staticwebassets\\ProductImages\\333bed33-741a-4df5-856c-69515565093e.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\35010ac4-62a5-4e5e-8e2b-fa99b1e92000.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\35010ac4-62a5-4e5e-8e2b-fa99b1e92000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\3531f47b-fe5e-45c0-bb3b-cb4f278157cc.png",
+      "PackagePath": "staticwebassets\\ProductImages\\3531f47b-fe5e-45c0-bb3b-cb4f278157cc.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\37c1f471-5fe6-4751-a1b1-3f85076838e2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\37c1f471-5fe6-4751-a1b1-3f85076838e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\38a7d1ec-1979-4187-8a34-8fa11bebc4e1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\38a7d1ec-1979-4187-8a34-8fa11bebc4e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\3a876531-027b-4c6c-a7e6-2ea9f372550c.png",
+      "PackagePath": "staticwebassets\\ProductImages\\3a876531-027b-4c6c-a7e6-2ea9f372550c.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\3dfdad9b-fd4e-46cf-a66e-dd0748ff3a68.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\3dfdad9b-fd4e-46cf-a66e-dd0748ff3a68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\42fbb5a3-350f-49d5-9942-193e44486d98.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\42fbb5a3-350f-49d5-9942-193e44486d98.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\4421546f-6d40-42e3-91f0-0d86b66b99e3.png",
+      "PackagePath": "staticwebassets\\ProductImages\\4421546f-6d40-42e3-91f0-0d86b66b99e3.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\44f0dc16-bde0-44ea-8c6f-01a0e6f5c3a7.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\44f0dc16-bde0-44ea-8c6f-01a0e6f5c3a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\499d5fc2-abde-4fcf-a961-3ccc14d609f8.png",
+      "PackagePath": "staticwebassets\\ProductImages\\499d5fc2-abde-4fcf-a961-3ccc14d609f8.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\49c91f8d-47cb-4a6d-8a55-94791c15221d.png",
+      "PackagePath": "staticwebassets\\ProductImages\\49c91f8d-47cb-4a6d-8a55-94791c15221d.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\49cbc8d7-7549-4120-9ee8-764da7b11e27.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\49cbc8d7-7549-4120-9ee8-764da7b11e27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\4dd11df9-1e3f-476f-828d-d9f42e16cac1.png",
+      "PackagePath": "staticwebassets\\ProductImages\\4dd11df9-1e3f-476f-828d-d9f42e16cac1.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\4f92ad44-d066-479a-ad6f-50e603707cb2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\4f92ad44-d066-479a-ad6f-50e603707cb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\586bbd4e-0a70-4fa0-83d1-7e9ee0221c75.png",
+      "PackagePath": "staticwebassets\\ProductImages\\586bbd4e-0a70-4fa0-83d1-7e9ee0221c75.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\5877459f-6b9f-4b97-a091-19277efedcdb.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\5877459f-6b9f-4b97-a091-19277efedcdb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\5c63959e-8d2e-4229-a371-92f248ec4e25.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\5c63959e-8d2e-4229-a371-92f248ec4e25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\5f97fcd0-c866-45db-8555-97492428c19b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\5f97fcd0-c866-45db-8555-97492428c19b.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\602f6304-7bb1-4dc3-bf00-d15de04c845d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\602f6304-7bb1-4dc3-bf00-d15de04c845d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\6463beed-e058-46fd-b009-102be64a2255.png",
+      "PackagePath": "staticwebassets\\ProductImages\\6463beed-e058-46fd-b009-102be64a2255.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\6482331e-3519-4936-b469-5f250f5f6e22.png",
+      "PackagePath": "staticwebassets\\ProductImages\\6482331e-3519-4936-b469-5f250f5f6e22.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\6525c6fd-6f92-4698-85b8-f41820e4aecb.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\6525c6fd-6f92-4698-85b8-f41820e4aecb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\65ff224d-489b-41b1-a1c4-c4b0072a2db6.png",
+      "PackagePath": "staticwebassets\\ProductImages\\65ff224d-489b-41b1-a1c4-c4b0072a2db6.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\670fe932-702d-4b1f-ab8b-c5544f29dca5.png",
+      "PackagePath": "staticwebassets\\ProductImages\\670fe932-702d-4b1f-ab8b-c5544f29dca5.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\67a17615-3eab-4e9a-9a9b-fd872a0b967a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\67a17615-3eab-4e9a-9a9b-fd872a0b967a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\68c1a5c0-3363-4739-aae7-2d73f02eb339.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\68c1a5c0-3363-4739-aae7-2d73f02eb339.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\7178d6d2-1640-4ca9-b6fe-8ec5e4fa9c89.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\7178d6d2-1640-4ca9-b6fe-8ec5e4fa9c89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\71eaec0f-d319-4b08-adbc-0766347c8072.png",
+      "PackagePath": "staticwebassets\\ProductImages\\71eaec0f-d319-4b08-adbc-0766347c8072.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\74e13d04-0881-4bfd-82b0-8f5bba27acbc.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\74e13d04-0881-4bfd-82b0-8f5bba27acbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\7fd14c5e-b196-4232-a8dc-65400757e6a5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\7fd14c5e-b196-4232-a8dc-65400757e6a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\8370fde3-44a6-4436-a9ed-d46ee9ccd817.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8370fde3-44a6-4436-a9ed-d46ee9ccd817.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\838948a8-453b-4bf0-9e88-baf92291cb7b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\838948a8-453b-4bf0-9e88-baf92291cb7b.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\84617309-fdfe-40bd-8916-e3ca9459bdb3.png",
+      "PackagePath": "staticwebassets\\ProductImages\\84617309-fdfe-40bd-8916-e3ca9459bdb3.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\855fa78a-9594-4991-b53f-10b87d38223a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\855fa78a-9594-4991-b53f-10b87d38223a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\884f5443-6cf3-4d31-bc32-1605d8960077.png",
+      "PackagePath": "staticwebassets\\ProductImages\\884f5443-6cf3-4d31-bc32-1605d8960077.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\892df4d1-b3b8-4a93-b07e-80a267ffed2f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\892df4d1-b3b8-4a93-b07e-80a267ffed2f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\8947ecb7-ac8e-4f80-a639-0a4aa19cbe5c.png",
+      "PackagePath": "staticwebassets\\ProductImages\\8947ecb7-ac8e-4f80-a639-0a4aa19cbe5c.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\89a809d4-3200-4f6d-a4a1-ec20f2812995.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\89a809d4-3200-4f6d-a4a1-ec20f2812995.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\8e24664f-0734-4e19-9757-3146fc98ab46.png",
+      "PackagePath": "staticwebassets\\ProductImages\\8e24664f-0734-4e19-9757-3146fc98ab46.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\95974e121862329.Y3JvcCw5MjIsNzIxLDAsMTM5.png",
+      "PackagePath": "staticwebassets\\ProductImages\\95974e121862329.Y3JvcCw5MjIsNzIxLDAsMTM5.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\971a53a8-6d68-4623-8edb-9eff5d6ce685.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\971a53a8-6d68-4623-8edb-9eff5d6ce685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\a4a49d06-0e69-4685-85ad-ddb5652d48f9.png",
+      "PackagePath": "staticwebassets\\ProductImages\\a4a49d06-0e69-4685-85ad-ddb5652d48f9.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\a4b195d0-5ca2-499c-81d1-bfaf3e48472a.png",
+      "PackagePath": "staticwebassets\\ProductImages\\a4b195d0-5ca2-499c-81d1-bfaf3e48472a.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\a5e8be41-37fa-4fed-9735-578ee443f4d2.png",
+      "PackagePath": "staticwebassets\\ProductImages\\a5e8be41-37fa-4fed-9735-578ee443f4d2.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\a8567413-da0b-4fc0-8dde-e2a26a74b45a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\a8567413-da0b-4fc0-8dde-e2a26a74b45a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\ab9c9c56-938a-4ac5-b547-42ef852c79eb.png",
+      "PackagePath": "staticwebassets\\ProductImages\\ab9c9c56-938a-4ac5-b547-42ef852c79eb.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\aba330d4-0e04-4d35-96a6-2eb888523d4b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\aba330d4-0e04-4d35-96a6-2eb888523d4b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\aba91a9d-c471-4018-b0c7-245d61803382.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\aba91a9d-c471-4018-b0c7-245d61803382.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\b0f8031c-9813-49f1-85d3-34e7b84e5456.png",
+      "PackagePath": "staticwebassets\\ProductImages\\b0f8031c-9813-49f1-85d3-34e7b84e5456.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\b358d40a-bca7-44bf-b352-2e0614ee24e1.png",
+      "PackagePath": "staticwebassets\\ProductImages\\b358d40a-bca7-44bf-b352-2e0614ee24e1.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\b66dbc5f-de8d-4177-99c7-71c4107d66b6.png",
+      "PackagePath": "staticwebassets\\ProductImages\\b66dbc5f-de8d-4177-99c7-71c4107d66b6.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\b72516ce-db74-490a-b164-338ed2c3da45.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\b72516ce-db74-490a-b164-338ed2c3da45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\b7f20110-f0e4-4f36-a19d-6c5080150db2.png",
+      "PackagePath": "staticwebassets\\ProductImages\\b7f20110-f0e4-4f36-a19d-6c5080150db2.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\ba7be656-6941-49ac-b7c0-1b27c27284a7.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ba7be656-6941-49ac-b7c0-1b27c27284a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\bf55186f-8fa1-467c-9261-a8cddcf05179.png",
+      "PackagePath": "staticwebassets\\ProductImages\\bf55186f-8fa1-467c-9261-a8cddcf05179.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\c148e3b0-7bb5-4c9d-b17d-e57bb044c101.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\c148e3b0-7bb5-4c9d-b17d-e57bb044c101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\d034a24c-900b-4ce6-8c57-1efb756a942b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\d034a24c-900b-4ce6-8c57-1efb756a942b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\d24c62d8-b8a6-45fb-9f1c-37b8a4274a8a.png",
+      "PackagePath": "staticwebassets\\ProductImages\\d24c62d8-b8a6-45fb-9f1c-37b8a4274a8a.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\d684f5d0-aebb-40f1-8156-e519e9339b4d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\d684f5d0-aebb-40f1-8156-e519e9339b4d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\d8fce381-7c68-4ee1-bb8b-2d2559394036.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\d8fce381-7c68-4ee1-bb8b-2d2559394036.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\dc5b9297-ec81-417d-b19b-c4af90a233c5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\dc5b9297-ec81-417d-b19b-c4af90a233c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\decaea6a-8bcb-4139-97f1-c9b0ec16ca3f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\decaea6a-8bcb-4139-97f1-c9b0ec16ca3f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\e4757b6d-2871-45f8-8d9c-90a8ef9e88f0.png",
+      "PackagePath": "staticwebassets\\ProductImages\\e4757b6d-2871-45f8-8d9c-90a8ef9e88f0.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\e69c64a1-f8ac-44c3-a9b5-787fe312435b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\e69c64a1-f8ac-44c3-a9b5-787fe312435b.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\e6ff16c6-0976-4eaa-802f-1d83f1b6f30b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e6ff16c6-0976-4eaa-802f-1d83f1b6f30b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\e9034ed7-63d0-4927-a2e1-77ac2ccc0779.png",
+      "PackagePath": "staticwebassets\\ProductImages\\e9034ed7-63d0-4927-a2e1-77ac2ccc0779.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\ebf34d2f-f029-46fa-8236-5b0b0c055327.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ebf34d2f-f029-46fa-8236-5b0b0c055327.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\ed9a2e60-d571-4ae0-93e0-bcbe73dd3780.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ed9a2e60-d571-4ae0-93e0-bcbe73dd3780.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\f1e9886e-e37b-4ec0-a035-fb882f6b9be4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\f1e9886e-e37b-4ec0-a035-fb882f6b9be4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\f34d7690-82dc-4fb3-b06d-dffad45aeff9.png",
+      "PackagePath": "staticwebassets\\ProductImages\\f34d7690-82dc-4fb3-b06d-dffad45aeff9.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\f8d0b599-c38a-45a8-b678-41bd6ba86f95.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\f8d0b599-c38a-45a8-b678-41bd6ba86f95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\fa390d69-deee-4e6f-bb55-5543fc0716d0.png",
+      "PackagePath": "staticwebassets\\ProductImages\\fa390d69-deee-4e6f-bb55-5543fc0716d0.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\fa72e4aa-4fe0-4c7b-9345-d8912815a0ab.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\fa72e4aa-4fe0-4c7b-9345-d8912815a0ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\fd6bc08b-7af3-49e3-a70a-f2fc70a52cb6.png",
+      "PackagePath": "staticwebassets\\ProductImages\\fd6bc08b-7af3-49e3-a70a-f2fc70a52cb6.png"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\ProductImages\\supermarket-shopping-cart-concept-illustration_114360-22408.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\supermarket-shopping-cart-concept-illustration_114360-22408.jpg"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\css\\cartstyle.css",
+      "PackagePath": "staticwebassets\\css\\cartstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\INZI\\Desktop\\New folder\\submission-7\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RJTECH(Authentication).Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RJTECH(Authentication).props",
+      "PackagePath": "build\\RJTECH(Authentication).props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RJTECH(Authentication).props",
+      "PackagePath": "buildMultiTargeting\\RJTECH(Authentication).props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RJTECH(Authentication).props",
+      "PackagePath": "buildTransitive\\RJTECH(Authentication).props"
+    }
+  ],
+  "ElementsToRemove": []
+}

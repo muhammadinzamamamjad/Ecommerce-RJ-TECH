@@ -1,0 +1,170 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    color: black;
+    font-family: sans-serif;
+}
+
+.pics {
+    height: auto;
+    width: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navv {
+    background-color: rgba(240, 240, 240, 0.7);
+    ;
+}
+
+h5:hover {
+    text-decoration: underline;
+}
+/* p:hover{
+    text-decoration: underline;
+} */
+
+
+/* img:hover{
+    transition: all 1.1s;
+    transform: scale(1.1);
+} */
+
+.navbar-brand:hover {
+    color: black;
+}
+.btn-transparent {
+    background-color: transparent;
+    border-color: transparent;
+    color: #007bff; /* Set the desired text color */
+}
+
+
+.nav-link {
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: capitalize;
+    font-family: sans-serif;
+}
+
+    .nav-link:hover {
+        color: black;
+        /* background-color:lightblue; */
+        border-bottom: 5px gray solid;
+    }
+.loginhover:hover {
+    color: black;
+    border-bottom: 5px gray solid;
+}
+
+.search {
+    height: 40px;
+    width: 100%;
+    border-radius: 60px;
+    outline: none;
+    /* margin-right: 30px; */
+    border: 2px solid black;
+}
+
+.btn0 {
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    border-radius: 60px;
+    font-weight: 700;
+}
+
+    .btn0:hover {
+        height: 40px;
+        width: 40%;
+        outline: none;
+        border: none;
+        background-color: gainsboro;
+        border-radius: 60px;
+        font-weight: 700;
+    }
+
+body {
+    overflow-x: hidden;
+}
+
+.Features {
+    background-color: rgba(240, 240, 240, 0.7);
+}
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+}
+
+footer {
+    margin-top: auto;
+    width: 100%;
+}
+
+/* Add your custom CSS styles here */
+
+.header {
+    background-color: #ffffff;
+    padding: 15px 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header-left, .header-right {
+    flex: 1;
+}
+
+.icons.dropdown {
+    position: relative;
+    margin-right: 20px;
+}
+
+    .icons.dropdown a {
+        color: #333;
+        text-decoration: none;
+    }
+
+    .icons.dropdown .badge {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+.dropdown-menu {
+    margin-top: 5px !important;
+    border-radius: 4px;
+}
+
+    .dropdown-menu ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .dropdown-menu li {
+        padding: 10px 15px;
+    }
+
+        .dropdown-menu li:hover {
+            background-color: #f4f4f4;
+        }
+
+    .dropdown-menu hr {
+        margin: 5px 0;
+        border-color: #ddd;
+    }

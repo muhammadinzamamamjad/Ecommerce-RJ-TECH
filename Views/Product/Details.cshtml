@@ -1,0 +1,46 @@
+﻿@model Product
+
+<style>
+    .card {
+        width: 80%;
+        margin-top: 20px;
+        border-radius: 15px;
+    }
+
+    .card-header {
+        background-color: #007bff;
+        color: white;
+        text-align: center;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .list-group-item {
+        background-color: #f8f9fa;
+        border: none;
+        border-bottom: 1px solid #dee2e6;
+    }
+
+        .list-group-item:last-child {
+            border-bottom: none;
+        }
+</style>
+
+<div class="card mx-auto shadow-sm">
+    <div class="card-header">
+        <h1>@Model.Name</h1>
+    </div>
+    <div class="card-body">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">ID: @Model.Id</li>
+            <li class="list-group-item">Quantity: @Model.Quantity</li>
+            <li class="list-group-item">Package Detail: @Model.PakageDetail</li>
+            <li class="list-group-item">Category: @Model.Category</li>
+            <li class="list-group-item">Features: @Model.Feature</li>
+        </ul>
+    </div>
+</div>
