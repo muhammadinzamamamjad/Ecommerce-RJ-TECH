@@ -4,7 +4,7 @@ RJTech Store offers a curated selection of cutting-edge smartwatches, headphones
 # Features
 - **User Authentication:** Leverages ASP.NET Core Identity for seamless user registration, login, and account management.
 - **Intuitive Navigation:** Offers straightforward navigation to easily browse through different product categories.
-- **Search Functionality:** Enables users to find products quickly using keywords or product IDs.
+- **Search Functionality:** Enables users to find products quickly using keywords.
 - **Shopping Cart:** Allows users to add or remove items from their cart and review the total cost before proceeding to checkout.
 - **Admin CRUD Operations:** An admin panel for adding, updating, deleting, and managing product details such as descriptions, images, stock levels, and prices.
 
@@ -12,4 +12,4 @@ RJTech Store offers a curated selection of cutting-edge smartwatches, headphones
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: ASP.NET Core MVC, C#
 - **Authentication**: ASP.NET Core Identity
-Database: SQL Server
+- **Database**: SQL Server
